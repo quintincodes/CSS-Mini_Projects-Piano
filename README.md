@@ -14,7 +14,7 @@ A simple project to practice responsive design. This project is a simple webpage
 
 ## Live Demo
 
-[Piano](https://eddking-qs.github.io/CSS-Mini_Projects-Piano/)
+[Piano](https://quintin-dev.github.io/CSS-Mini_Projects-Piano/)
 
 ## Disclaimer
 
