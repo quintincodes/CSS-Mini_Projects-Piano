@@ -8,16 +8,16 @@ A simple project to practice responsive design. This project is a simple webpage
 
 **CSS**
 
--   Responsive Design
--   Media Queries
--   Pseudo-elements
+- Responsive Design
+- Media Queries
+- Pseudo-elements
 
 ## Live Demo
 
-[Piano](https://quintin-dev.github.io/CSS-Mini_Projects-Piano/)
+[Piano](https://quintincodes.github.io/CSS-Mini_Projects-Piano/)
 
 ## Disclaimer
 
--   This project will not be updated or maintained. It is a simple project to practice responsive design.
+- This project will not be updated or maintained. It is a simple project to practice responsive design.
 
 Feel free to star or fork this project and style it as you wish.
